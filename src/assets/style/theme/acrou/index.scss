@@ -85,7 +85,7 @@ body {
 
 .no-content {
   background: url(#{$cdnPath}images/no-data.png) no-repeat 50% 50%;
-  height: 240px;
+  height: 928px;
   line-height: 240px;
   text-align: center;
   margin-top: 20px;
@@ -114,7 +114,7 @@ body {
 }
 
 .golist {
-  min-height: 240px;
+  min-height: 928px;
   position: relative;
 
   .el-loading-mask {
